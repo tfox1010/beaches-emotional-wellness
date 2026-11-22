@@ -126,3 +126,31 @@ footer p,
 .fine-print {
   border-color: #455b7b;
 }
+
+
+/* Homepage artwork - coastal brand colors */
+
+.hero-art {
+  background:
+    linear-gradient(
+      168deg,
+      #a7ddf3 0%,
+      #a7ddf3 28%,
+      #4abdd4 29%,
+      #4abdd4 48%,
+      #5999ce 49%,
+      #5999ce 58%,
+      #9ad7df 59%,
+      #9ad7df 70%,
+      #dceff6 71%,
+      #dceff6 100%
+    );
+}
+
+.art-text {
+  background: rgba(247, 246, 241, 0.94);
+}
+
+.art-text small {
+  color: #52677a;
+}
